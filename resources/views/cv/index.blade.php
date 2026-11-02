@@ -6,7 +6,7 @@
     <div class="d-flex justify-content-between w-100 flex-wrap">
         <div class="mb-3 mb-lg-0">
             <h1 class="h4">Daftar CV</h1>
-            <p class="mb-0">Data portofolio yang sudah diisi. Klik "Lihat CV" untuk mencetak.</p>
+            <p class="mb-0">Data portofolio yang sudah diisi. Klik "Lihat CV" untuk melihat preview.</p>
         </div>
         <div>
             <a href="{{ route('cv.create') }}" class="btn btn-primary">+ Buat CV Baru</a>

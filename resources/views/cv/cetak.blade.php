@@ -58,7 +58,6 @@
 <body>
 
 <div class="toolbar">
-    <button class="utama" onclick="window.print()">Cetak / Simpan PDF</button>
     <a href="{{ route('cv.edit', $cv->id_portofolio) }}">Edit Data</a>
     <a href="{{ route('cv.index') }}">Daftar CV</a>
 </div>
